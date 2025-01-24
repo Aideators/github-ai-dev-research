@@ -7,7 +7,8 @@ We would prefer a team that is research focused on insight discovery or concept 
 ## 🔗 url
 [GitHub Copilot](https://github.com/features/copilot)\
 [Aideators Meeting Notes with Jared](https://docs.google.com/document/d/1gwTSicangyKdth0bGkwX5p0Di90MXx34O2FTBBnMne4/edit?usp=sharing)\
-[Online Obsorvation](https://docs.google.com/document/d/1gwTSicangyKdth0bGkwX5p0Di90MXx34O2FTBBnMne4/edit?usp=sharing)
+[Online Obsorvation](https://docs.google.com/document/d/1gwTSicangyKdth0bGkwX5p0Di90MXx34O2FTBBnMne4/edit?usp=sharing)\
+[figjam](https://www.figma.com/board/JUkEckwfvIAODXviZeU04g/Untitled?node-id=0-1&t=k5BKnoj2le4aZr5A-1)
 ## 👥 target audiences
 Software developers, or members of the product development team. Could target non-traditional stakeholders who understand developer workflows. Users could also be designers who might be empowered to do the development work
 ## 🧩 hcde components
